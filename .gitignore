@@ -1,0 +1,50 @@
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ----------------------
+# Virtual Environment
+# ----------------------
+venv/
+env/
+
+# ----------------------
+# Environment Variables
+# ----------------------
+.env
+
+# ----------------------
+# Django
+# ----------------------
+db.sqlite3
+media/
+staticfiles/
+
+# ----------------------
+# Celery
+# ----------------------
+celerybeat-schedule*
+celerybeat.pid
+
+# ----------------------
+# Build / Distribution
+# ----------------------
+*.egg-info/
+dist/
+build/
+
+# ----------------------
+# VS Code
+# ----------------------
+.vscode/
+
+# ----------------------
+# OS Files
+# ----------------------
+.DS_Store
+Thumbs.db
