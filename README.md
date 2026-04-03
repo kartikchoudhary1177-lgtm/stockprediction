@@ -44,7 +44,7 @@ stockprediction/
 ## ⚙️ Installation
 
 ### 1. Clone Repository
-git clone https://github.com/your-username/stockprediction.git  
+git clone https://github.com/kartikchoudhary1177-lgtm 
 cd stockprediction
 
 ### 2. Create Virtual Environment
